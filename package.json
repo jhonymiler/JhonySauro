@@ -1,0 +1,23 @@
+{
+  "name": "JhonySauro",
+  "version": "1.0.0",
+  "description": "Um sistema de Inteligencia Artificial para jogar o Game do Donossauro do Google Chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erro no teste de script\" && exit 1"
+  },
+  "author": "Jhony Miler",
+  "license": "GNU",
+  "dependencies": {
+    "async": "^1.4.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "lodash": "^4.17.4",
+    "robotjs": "^0.4.5",
+    "synaptic": "^1.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivanseidel/IAMDinosaur.git"
+  }
+}
